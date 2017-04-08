@@ -1,0 +1,15 @@
+.corpo{
+margin-top: 40px;    
+}
+
+.senha{
+    margin: 40px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #1b6d85
+}
+
+.center{
+    margin: 0 auto;
+    float: none;
+}
