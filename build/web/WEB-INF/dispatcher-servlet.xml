@@ -53,10 +53,7 @@
 
    </beans:bean>
    
-<mvc:interceptors>
-    <bean 
-    class="br.com.painel.interceptor.AutorizadorInterceptor" />
-</mvc:interceptors>
+
      
 
 </beans>
